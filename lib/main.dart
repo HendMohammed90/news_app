@@ -5,6 +5,8 @@ import 'package:news_app/data/web_services/dio_helper.dart';
 import 'package:news_app/layout/news_app/cubit/app-cubit.dart';
 import 'package:news_app/layout/news_app/cubit/app-state.dart';
 import 'package:news_app/layout/news_app/news_layout.dart';
+import 'package:news_app/modules/news/science_screen.dart';
+import 'package:news_app/modules/web/web_view_screen.dart';
 import 'package:news_app/shared/bloc_observer.dart';
 import 'package:news_app/shared/cache_wrapper.dart';
 
@@ -24,7 +26,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (BuildContext context) => NewsCubit()..changeMode(),
+      create: (BuildContext context) => NewsCubit()
+        ..changeMode()
+        ..getScience()
+        ..getBusiness()
+        ..getSports(),
       child: BlocConsumer<NewsCubit, NewsStates>(
         listener: (context, state) {},
         builder: (context, state) {
