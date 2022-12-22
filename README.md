@@ -1,7 +1,8 @@
 # Title : news_app
 A new Flutter project.
 
-![This is an image](https://github.com/HendMohammed90/ToDo-App/blob/main/images/Screen%20Shot%202022-11-09%20at%2011.22.15%20PM.png)
+![This is an image](https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.04.16.png)
+![This is an image](https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.05.30.png)
 
 ## Introduction:
 
