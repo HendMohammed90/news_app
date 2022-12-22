@@ -1,9 +1,8 @@
 # Title : news_app
-A new Flutter project.
+A Flutter project
+<img alt="drawing" height="400" src="https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.05.30.png" width="200"/>
+<img alt="drawing" height="400" src="https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.04.16.png" width="200"/>
 
-![This is an image](https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.04.16.png | width=100)
-![This is an image](https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.05.30.png)
-![This is an image] <img alt="drawing" height="400" src="https://github.com/HendMohammed90/news_app/blob/main/assets/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-12-22%20at%2010.04.16.png" width="200"/>
 ## Introduction:
 
 This project is a represinting a mini news Application contains of 3 Screen Each for main point of news ( Scines - Business - Sport).
