@@ -5,12 +5,12 @@ A Flutter project
 
 ## Introduction:
 
-This project is a represinting a mini news Application contains of 3 Screen Each for main point of news ( Scines - Business - Sport).
-also Containe a search and changing in moode light or Dark.
+This project is a representing a mini news Application contains of 3 Screen Each for main point of news ( Scenes - Business - Sport).
+also Contain a search and changing in mode light or Dark.
 
 ### Technologies :
 Flutter
-Block State Mangment
+Block State Management
 Cubit
 Clean Code
 Dio For Network
